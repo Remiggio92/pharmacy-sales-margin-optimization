@@ -7,7 +7,7 @@ The core engineering and analytics were performed in **Google BigQuery** using a
 
 * **Interactive Dashboard:** [📊 See the interactive dashboard in Tableau Public](https://public.tableau.com/app/profile/remiggio.kowalczyk/viz/European_Pharmacies_Sales/PharmacySalesMarginOptimizationDashboard)]
 * **SQL Code Location:** [💻 See full SQL code](analytics_view.sql)
-
+* **Sample Data**[📄 View Full Data Sample (CSV)](Analytics_View_First_100.csv)
 ---
 
 ## Business Goal & Analytical Approach
