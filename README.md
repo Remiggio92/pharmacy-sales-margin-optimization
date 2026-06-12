@@ -5,7 +5,8 @@ This project delivers a comprehensive data analytics solution designed to optimi
 
 The core engineering and analytics were performed in **Google BigQuery** using advanced SQL, and the insights were visualized in an interactive dashboard via **Tableau Public**.
 
-* **Interactive Dashboard:** [📊 See the interactive dashboard in Tableau Public](https://public.tableau.com/app/profile/remiggio.kowalczyk/viz/European_Pharmacies_Sales/PharmacySalesMarginOptimizationDashboard)]
+* **Interactive Dashboard:** [![Tableau](https://img.shields.io/badge/Tableau-Public-📊-orange?style=for-the-badge&logo=tableau)](https://public.tableau.com/views/European_Pharmacies_Sales)
+#[📊 See the interactive dashboard in Tableau Public](https://public.tableau.com/app/profile/remiggio.kowalczyk/viz/European_Pharmacies_Sales/PharmacySalesMarginOptimizationDashboard)]
 * **SQL Code Location:** [💻 See full SQL code](analytics_view.sql)
 
 ---
